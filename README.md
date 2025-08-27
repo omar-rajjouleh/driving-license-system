@@ -22,5 +22,7 @@ International License Issuance: Supports the application and issuance of interna
 
  Tech Stack
 Frontend: C# with .NET Framework (Desktop Application)
+
 Backend: C# with .NET Framework
+
 Database: MySQL Server
