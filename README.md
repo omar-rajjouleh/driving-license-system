@@ -1,6 +1,6 @@
 # driving-license-system
 
-This is a desktop application built with a Model-View-Controller (MVC) architecture. It is designed to streamline and manage the end-to-end process of driving license issuance, renewal, and administration. The system's backend is supported by a robust relational database design to ensure data integrity and efficiency, providing a reliable platform for both licensing authorities and drivers.
+This is a desktop application built with a Model-View-Controller (MVC) architecture. It is designed to streamline and manage the end-to-end process of driving license issuance, renewal, and administration. The system's backend is supported by a relational database design to ensure data integrity and efficiency, providing a reliable platform for both licensing authorities and drivers.
 
 ************************************************************************************************************************
 
